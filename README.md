@@ -1,5 +1,5 @@
 # 混淆教程
-1.打开项目页的源码.js    全选复制所以代码
+1.打开项目页的   源码.js【任何一个JavaScript代码都可以，项目页文件仅为演示】    全选复制所以代码
 
 2.随意打开一个在线混淆js的网站，例如https://toolonline.net/js-obfuscator
 
